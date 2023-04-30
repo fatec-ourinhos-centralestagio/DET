@@ -1,0 +1,13 @@
+version: '3.6'
+
+services:
+  db_Det:
+    container_name: DET
+    image: postgres:14.6-alpine
+    environment:
+      - POSTGRES_DB=Det
+      - POSTGRES_PASSWORD=user
+      - POSTGRES_USER=user
+    ports:
+      - 5432:5432
+
