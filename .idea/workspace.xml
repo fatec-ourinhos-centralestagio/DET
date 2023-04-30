@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac608fb8-92cf-4492-ab42-9b966cc7b916" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Curso Alura/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/.github/workflows/build.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/docker/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/DetApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/aliment/AlimentServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/auth/service/jwt/JwtAuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/auth/service/jwt/JwtRequestFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/auth/service/jwt/JwtTokenUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/auth/service/jwt/JwtUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/employee/EmployeeServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/menu/MenuServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/application/user/UserServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/config/spring/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/config/spring/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/config/swagger/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/aliment/AlimentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/aliment/AlimentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/aliment/vo/AlimentVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/auth/Auth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/employee/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/employee/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/employee/vo/EmployeeVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/menu/MenuRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/menu/MenuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/menu/vo/MenuVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/user/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/user/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/domain/user/vo/UserVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/aliment/AlimentEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/aliment/AlimentPersistenceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/aliment/AlimentRepositoryImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/employee/EmployeeEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/employee/EmployeePersistenceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/employee/EmployeeRepositoryImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/items/MenuEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/items/MenuPersistenceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/items/MenuRepositoryImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/mapper/AlimentMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/mapper/EmployeeMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/mapper/MenuMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/user/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/user/UserPersistenceRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/infrastructure/persistance/jpa/user/UserRepositoryImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/webapi/AlimentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/webapi/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/webapi/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/webapi/MenuController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/java/ourinhos/fatec/det/webapi/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Eng Software 5 sem/app/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2P9yAbYVV1OZQDpk9vN4xvHbrrm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/anton/OneDrive/Área de Trabalho/ENG SOFT/app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac608fb8-92cf-4492-ab42-9b966cc7b916" name="Changes" comment="" />
+      <created>1682883453567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682883453567</updated>
+    </task>
+    <servers />
+  </component>
+</project>
